@@ -1,0 +1,50 @@
+hashtag: "#nclresearchmethods"
+starts: "2017-08-14T22:47:31-07:00"
+ends: "2017-09-28T22:47:31-07:00"
+accounts: 
+  - tombartindale
+langs:
+  - en
+about: about.md
+info: info.md
+slug: researchmethods
+classes:
+  -
+    dir: class1
+    slug: researchmethods
+    content:
+      -
+        url: intro.md
+        slug: intro
+      -
+        url: extra-pre-reading.md
+        slug: prereading
+      -
+        url: homework.md
+        slug: homework
+      -
+        url: class.md
+        slug: liveclass
+        schedule:
+          -
+            release_at: "2017-08-16T22:57:37-07:00"
+            leadhub: true
+            hub_id: "ncl"
+      -
+        url: deepdive.md
+        slug: deepdive
+      -
+        url: extended.md
+        slug: extended
+      -
+        url: homework1.md
+        slug: homework1
+      -
+        url: webinar.md
+        slug: webinar
+        schedule:
+          -
+            release_at: "2017-09-19T22:57:37-07:00"
+      -
+        url: whatnext.md
+        slug: whatnext
