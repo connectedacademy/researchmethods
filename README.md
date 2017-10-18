@@ -1,6 +1,6 @@
 # Interpretation Course
 
-[![CircleCI](https://circleci.com/gh/connectedacademy/interpretation/tree/master.svg?style=svg)](https://circleci.com/gh/connectedacademy/interpretation/tree/master)
+[![CircleCI](https://circleci.com/gh/connectedacademy/researchmethods/tree/master.svg?style=svg)](https://circleci.com/gh/connectedacademy/researchmethods/tree/master)
 
 
 Structure and content for the Test Class, for Connected Academy development.

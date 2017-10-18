@@ -1,21 +1,21 @@
 {
-  "name": "interpretation",
+  "name": "researchmethods",
   "version": "1.0.0",
-  "description": "A course on Interpretation in media",
+  "description": "A course on researchmethods",
   "main": "index.js",
   "scripts": {
     "generate": "mocha --harmony-async-await deploy/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/connectedacademy/interpretation.git"
+    "url": "git+https://github.com/connectedacademy/researchmethods.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/connectedacademy/interpretation/issues"
+    "url": "https://github.com/connectedacademy/researchmethods/issues"
   },
-  "homepage": "https://github.com/connectedacademy/interpretation#readme",
+  "homepage": "https://github.com/connectedacademy/researchmethods#readme",
   "dependencies": {
     "js-yaml": "^3.8.3",
     "klaw-sync":"2.1.0",

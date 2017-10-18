@@ -1,8 +1,8 @@
 prose:
-  siteurl: https://interpretation.connectedacademy.io
+  siteurl: https://researchmethods.connectedacademy.io
   rooturl: course
   media: 'course/content/media'
-  relativeLinks: https://interpretation.connectedacademy.io/links.jsonp
+  relativeLinks: https://researchmethods.connectedacademy.io/links.jsonp
   metadata:
     'course/content':
       - name: title
