@@ -16,6 +16,9 @@ classes:
       -
         url: intro.md
         slug: intro
+      - 
+        url: fourcorners.md
+        slug: forcorners
       -
         url: extra-pre-reading.md
         slug: prereading
