@@ -1,5 +1,5 @@
 # How to Edit this Course
-
+ 
 ## Streaming Media
 
 YouTube is used for videos - enter the video code in the extra information when editing content to include it in the class.
