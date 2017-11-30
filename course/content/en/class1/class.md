@@ -4,8 +4,7 @@ content_type: class
 optional: false
 title: Live Classroom
 description: >-
-  All images displayed are taken by Graham Macindoe and are Copyrighted - All
-  Rights Reserved.
+  Discussion between Matt and Celia.
 duration: '1341'
 audio:
   - Kitzinger Final.mp3
