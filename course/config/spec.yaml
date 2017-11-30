@@ -16,9 +16,7 @@ classes:
       -
         url: intro.md
         slug: intro
-      -
-        url: extra-pre-reading.md
-        slug: prereading
+
       -
         url: homework.md
         slug: homework
@@ -38,5 +36,6 @@ classes:
         slug: extended
       
       -
-        url: whatnext.md
-        slug: whatnext
+        url: survey.md
+        slug: survey
+      

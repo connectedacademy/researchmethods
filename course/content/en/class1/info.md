@@ -2,7 +2,7 @@
 published: true
 content_type: title
 optional: false
-title: Interpretation
+title: Research for Social Change
 expectsubmission: false
-description: Depictions of Addiction
+description: Centre of Coma and Disorder of Consciousness
 ---

@@ -1,10 +1,9 @@
 ---
 published: true
-content_type: nextclass
+content_type: survey
 optional: false
 expectsubmission: false
 title: What Next
 description: >-
-  This class has now finished but please reach out to us through Twitter for
-  future classes.
+  Complete a short survey to help us improve the platform.
 ---
