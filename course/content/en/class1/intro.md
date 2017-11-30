@@ -4,16 +4,9 @@ content_type: pre
 optional: false
 title: Research for Social Change
 description: >-
-  Photographer Graham Macindoe and journalist Susan Stellin provide a case-study
-  for us to consider how images are interpreted and to reflect on their enduring
-  and potentially evolving impact. @[bio](Graham
-  Macindoe|{{site.baseurl}}/course/content/media/thumb/Graham_cropped.jpg|Graham
-  Macindoe is a New York based photographer and an adjunct professor at Parsons
-  The New School. His work has been widely published in the UK and the
-  US.|https://www.instagram.com/grahammacindoe
-  |https://www.twitter.com/grahammacindoe) During the course, we will be making
-  [Four Corners](/#/fourcorners) images as a way of sharing and discussing the
-  emergent issues.
+  Matt Wood interviews Celia Kitzinger at the University of York to provide a case study for research for social change and impact.
+ @[bio](Celia Kitzinger|{{site.baseurl}}/course/content/media/thumb/celia_profile.png|Celia Kitzinger is an activist-scholar, who considers research and social change as inextricably linked. Her current research interests are around coma and disorders of consciousness.|https://twitter.com/KitzingerCelia
+  |
 expectsubmission: false
 ---
 ## Research for Social Change - Introduction
