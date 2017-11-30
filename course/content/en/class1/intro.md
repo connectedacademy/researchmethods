@@ -6,7 +6,9 @@ title: Research for Social Change
 description: >-
   Matt Wood interviews Celia Kitzinger at the University of York to provide a case study for research for social change and impact.
  @[bio](Celia Kitzinger|{{site.baseurl}}/course/content/media/thumb/celia_profile.png|Celia Kitzinger is an activist-scholar, who considers research and social change as inextricably linked. Her current research interests are around coma and disorders of consciousness.|https://twitter.com/KitzingerCelia
-  |
+  |https://www.twitter.com/grahammacindoe) During the course, we will be making
+  [Four Corners](/#/fourcorners) images as a way of sharing and discussing the
+  emergent issues.
 expectsubmission: false
 ---
 ## Research for Social Change - Introduction
