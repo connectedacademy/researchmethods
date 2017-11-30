@@ -16,9 +16,6 @@ classes:
       -
         url: intro.md
         slug: intro
-      - 
-        url: fourcorners.md
-        slug: forcorners
       -
         url: extra-pre-reading.md
         slug: prereading
@@ -39,15 +36,7 @@ classes:
       -
         url: extended.md
         slug: extended
-      -
-        url: homework1.md
-        slug: homework1
-      -
-        url: webinar.md
-        slug: webinar
-        schedule:
-          -
-            release_at: "2017-09-19T22:57:37-07:00"
+      
       -
         url: whatnext.md
         slug: whatnext
