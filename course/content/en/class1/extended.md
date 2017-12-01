@@ -10,11 +10,11 @@ description: >-
 
 Here you can see a range of content related to the outputs of the Coma and Disorders of Consciousness Research Centre.
 
-**The CDoC** keeps an up to date website about their ongoing work, and also have an active [twitter](https://twitter.com/cdocuk) account
+## Online Content
 
-[www.cdoc.org.uk](http://www.cdoc.org.uk)
+The CDoC keeps an up to date [website](http://www.cdoc.org.uk) about their ongoing work, and also have an active [twitter](https://twitter.com/cdocuk) account
 
-Their [healthtalk online](http://www.healthtalk.org/peoples-experiences/nerves-brain/family-experiences-vegetative-and-minimally-conscious-states/topics) resource captures family experiences of Vegetative and Minimally Conscious States. Explore different topics relating to coma and vegetative state, or follow individual profiles.
+Their [healthtalk online](http://www.healthtalk.org/peoples-experiences/nerves-brain/family-experiences-vegetative-and-minimally-conscious-states/topics) resource captures family experiences of Vegetative and Minimally Conscious States. Explore different topics relating to coma and vegetative state, or follow individual profiles. You can also find perspectives from healthcare professionals.
 
 Celia Kitzinger was featured on an episode of [Inside the Ethics Committee](http://www.bbc.co.uk/programmes/b07m7n0g) on Radio 4
 
@@ -42,13 +42,6 @@ Celia Kitzinger's Keynote Talk at QMiP 2017 on 'Making a Difference with Qualita
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yr_TXYM2gTw" frameborder="0" allowfullscreen></iframe>
 
-**Graham MacIndoe** is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.
-
-[www.grahammacindoe.com](http://www.grahammacindoe.com)
-
-> [Twitter - @grahammacindoe](https://twitter.com/grahammacindoe), [Instagram - @grahammacindoe](https://www.instagram.com/grahammacindoe/), [Facebook - grahammacindoe](https://www.facebook.com/grahammacindoe)
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342491632%3Fsecret_token%3Ds-lhP61&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ----
 
