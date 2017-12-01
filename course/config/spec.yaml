@@ -16,7 +16,6 @@ classes:
       -
         url: intro.md
         slug: intro
-
       -
         url: homework.md
         slug: homework
@@ -38,4 +37,3 @@ classes:
       -
         url: survey.md
         slug: survey
-      
