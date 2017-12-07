@@ -1,12 +1,8 @@
 {
-    "denominator":["(<img.*?data-4c.*?>)"],
+    "denominator":["(<article\\b[^>]*>(.*?)<\\/article>)"],
     "capture": [
       {
-        "pattern": "(<script.*src.*\/dist\/4c\\.js.*?<\/script>)"
-      },
-      {
-        "ident":"data-4c=[\"'](.*)[\"']",
-        "pattern":"(<script.*?data-4c-meta=[\"']{{ident}}[\"'][\\s\\S]*?<\/script>)"
+        "pattern": "<div class=\\"the-content\\"([\\s\\W\\w]*)<\\/div>"
       }
     ],
     "preview": "<img.+src\\=[\"'](.*?)[\"'].*>"
