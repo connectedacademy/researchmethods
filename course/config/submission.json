@@ -1,9 +1,10 @@
 {
-    "denominator":["(<article\\b[^>]*>(.*?)<\\/article>)"],
+    "denominator":["(<article[\\s\\W\\w]*<\\/article>)"],
     "capture": [
       {
-        "pattern": "<div class=\"the-content\"([\\s\\W\\w]*)<\\/div>"
+        "pattern": "<div class=\"the-content\".*>([\\s\\W\\w]*)<\\/div>"
       }
     ],
-    "preview": "<img.+src\\=[\"'](.*?)[\"'].*>"
+    "preview": "<h1 class=\"title\">([\\s\\W\\w]*)<\\/h1>",
+    "mediatype":"text"
 }
