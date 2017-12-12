@@ -2,7 +2,7 @@
     "denominator":["(<article\\b[^>]*>(.*?)<\\/article>)"],
     "capture": [
       {
-        "pattern": "<div class=\\"the-content\\"([\\s\\W\\w]*)<\\/div>"
+        "pattern": "<div class=\"the-content\"([\\s\\W\\w]*)<\\/div>"
       }
     ],
     "preview": "<img.+src\\=[\"'](.*?)[\"'].*>"
